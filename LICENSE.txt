@@ -1,29 +1,19 @@
-Alex's Legacy License (Based on MIT)
-
-Copyright (c) 2025 Alex Tearse-Doyle “TD” (steam id: Uuugggg)
+Copyright (c) [2025] [Alex Tearse-Doyle]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. The above copyright notice and this permission notice shall be included
-   in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. The name “Alex Tearse-Doyle” shall be preserved as the original author of
-   the Software in any derivative works or redistributions.
-
-3. This license does not transfer ownership of the Software. All rights,
-   moral and legal, remain with the original author, Alex Tearse-Doyle, or his legal estate.
-
-4. The Software is provided “as is”, without warranty of any kind, express or
-   implied, including but not limited to the warranties of merchantability,
-   fitness for a particular purpose and noninfringement. In no event shall
-   the author or copyright holders be liable for any claim, damages or other
-   liability, whether in an action of contract, tort or otherwise, arising
-   from, out of or in connection with the Software or the use or other
-   dealings in the Software.
-
-IN MEMORY OF ALEX — Thank you for your creativity and contributions.
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
